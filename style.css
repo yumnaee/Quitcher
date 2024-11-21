@@ -1,0 +1,130 @@
+#container {}
+
+img {
+	width: 300px;
+}
+
+p {
+	font-size: 30px;
+}
+
+#paragraph1 {
+	font-size: 300px;
+font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+}
+
+#paragraph2 {
+	font-size: 100px;
+font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: blue;
+}
+
+#paragraph3 {
+	font-size: 60px;
+font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: blue;
+}
+
+#paragraph4 {
+	font-size: 100px;
+	font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: red;
+}
+
+#paragraph5 {
+	font-size: 60px;
+	font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: red;
+}
+
+#paragraph6 {
+	font-size: 100px;
+	font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+}
+
+#paragraph7 {
+	font-size: 60px;
+	font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+}
+
+#paragraph8 {
+	font-size: 100px;
+	font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: green;
+}
+
+#paragraph9 {
+	font-size: 60px;
+	font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: green;
+}
+
+#paragraph10 {
+	font-size: 100px;
+	font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: red;
+}
+
+#paragraph11 {
+	font-size: 60px;
+	font-family: "Qwitcher Grypen", cursive;
+  font-weight: 700;
+  font-style: normal;
+  color: red;
+}
+
+.letters {
+	font-family: Qwitcher Grypen;
+	width: 250px;
+	heightt: 250px;
+	position: absolute;
+	top: 30vw;
+	animation: fall 8s linear indefinite;
+}
+
+#A {
+	left: 200px;
+	animaiton: fall 8s linear indefinite;
+}
+
+#B {
+	left: 200px;
+	animation: fall 8s linear indefinite;
+}
+
+#C {
+	left: 200px;
+	animation: fall 8s linear indefinite;
+}
+
+@keyframes fall {
+from {
+top: -50vh;
+}
+to {
+top: 150vh
+
+<style>
