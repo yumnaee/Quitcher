@@ -1,5 +1,12 @@
 #container {}
 
+body{
+	background-image: linear-gradient(#CEF1FF,#96D4EB,#50ADCF);
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	margin: 0;
+}
+
 img {
 	width: 300px;
 }
@@ -10,121 +17,244 @@ p {
 
 #paragraph1 {
 	font-size: 300px;
-font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: black;
+	font-family: "Qwitcher Grypen", cursive;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: black;
 }
 
 #paragraph2 {
-	font-size: 100px;
-font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: blue;
+	font-size: 200px;
+	font-family: "Qwitcher Grypen", cursive;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: black;
 }
 
 #paragraph3 {
-	font-size: 60px;
-font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: blue;
+	font-size: 100px;
+	font-family: "Qwitcher Grypen", cursive;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: blue;
 }
 
 #paragraph4 {
-	font-size: 100px;
+	font-size: 60px;
 	font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: red;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: blue;
 }
 
 #paragraph5 {
-	font-size: 60px;
+	font-size: 100px;
 	font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: red;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: red;
 }
 
 #paragraph6 {
-	font-size: 100px;
+	font-size: 60px;
 	font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: black;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: red;
 }
 
 #paragraph7 {
-	font-size: 60px;
+	font-size: 100px;
 	font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: black;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: black;
 }
 
 #paragraph8 {
-	font-size: 100px;
+	font-size: 60px;
 	font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: green;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: black;
 }
 
 #paragraph9 {
-	font-size: 60px;
+	font-size: 100px;
 	font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: green;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: green;
 }
 
 #paragraph10 {
-	font-size: 100px;
+	font-size: 60px;
 	font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: red;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: green;
 }
 
 #paragraph11 {
+	font-size: 100px;
+	font-family: "Qwitcher Grypen", cursive;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: red;
+}
+
+#paragraph12 {
 	font-size: 60px;
 	font-family: "Qwitcher Grypen", cursive;
-  font-weight: 700;
-  font-style: normal;
-  color: red;
+  	font-weight: 700;
+  	font-style: normal;
+  	color: red;
 }
 
 .letters {
-	font-family: Qwitcher Grypen;
+	font-size: 35px;
+	font-family: "Qwitcher Grypen";
 	width: 250px;
-	heightt: 250px;
+	height: 250px;
 	position: absolute;
-	top: 30vw;
-	animation: fall 8s linear indefinite;
+	animation: fall 8s linear infinite; 
 }
 
 #A {
-	left: 200px;
-	animaiton: fall 8s linear indefinite;
+	left: 10vw;
+	animation: fall 7s linear infinite; 
 }
 
 #B {
-	left: 200px;
-	animation: fall 8s linear indefinite;
+	left: 15vw;
+	animation: fall 8s linear infinite; 
 }
 
 #C {
-	left: 200px;
-	animation: fall 8s linear indefinite;
+	left: 20vw;
+	animation: fall 9s linear infinite; 
 }
 
+#D {
+	left: 25vw;
+	animation: fall 10s linear infinite; 
+}
+
+#E {
+	left: 30vw;
+	animation: fall 11s linear infinite; 
+}
+
+#F {
+	left: 35vw;
+	animation: fall 12s linear infinite;
+}
+
+#G {
+	left: 40vw;
+	animation: fall 13s linear infinite;
+}
+
+#H {
+	left: 45vw;
+	animation: fall 14s linear infinite;
+}
+
+#I {
+	left: 50vw;
+	animation: fall 15s linear infinite;
+}
+
+#J {
+	left: 55vw;
+	animation: fall 16s linear infinite;
+}
+
+#K {
+	left: 60vw;
+	animation: fall 17s linear infinite;
+}
+
+#L {
+	left: 65vw;
+	animation: fall 18s linear infinite;
+}
+
+#M {
+	left: 70vw;
+	animation: fall 19s linear infinite;
+}
+
+#N {
+	left: 75vw;
+	animation: fall 20s linear infinite;
+}
+
+#O {
+	left: 80vw;
+	animation: fall 21s linear infinite;
+}
+
+#P {
+	left: 85vw;
+	animation: fall 22s linear infinite;
+}
+
+#Q {
+	left: 90vw;
+	animation: fall 23s linear infinite;
+}
+
+#R {
+	left: 95vw;
+	animation: fall 24s linear infinite;
+}
+
+#S {
+	left: 100vw;
+	animation: fall 25s linear infinite;
+}
+
+#T {
+	left: 105vw;
+	animation: fall 26s linear infinite;
+}
+
+#U {
+	left: 110vw;
+	animation: fall 27s linear infinite;
+}
+
+#V {
+	left: 115vw;
+	animation: fall 28s linear infinite;
+}
+
+#W {
+	left: 120vw;
+	animation: fall 29s linear infinite;
+}
+
+#X {
+	left: 125vw;
+	animation: fall 30s linear infinite;
+}
+
+#Y {
+	left: 130vw;
+	animation: fall 31s linear infinite;
+}
+
+#Z {
+	left: 135vw;
+	animation: fall 32s linear infinite;
+}
 @keyframes fall {
-from {
-top: -50vh;
+	from {
+		top: -50vh;
+
 }
 to {
-top: 150vh
+top: 150vh;
 
-<style>
+}}
